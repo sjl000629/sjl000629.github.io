@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   outDir: 'docs',
-  title: "My Awesome Project",
+  title: "Mr.Shang Awesome Project",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -23,7 +23,6 @@ export default defineConfig({
         ]
       }
     ],
-
 
   }
 })
