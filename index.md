@@ -10,9 +10,6 @@ hero:
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples
-    - theme: brand
-      text: Markdown使用Vue
-      link: /test-vue  
     - theme: alt
       text: API Examples
       link: /api-examples
