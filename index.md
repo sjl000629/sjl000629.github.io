@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: Vitepress Vue
+      link: /test-vue
 
 features:
   - title: Feature A
